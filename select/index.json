@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あちこちデートさん",
+  "base_artist": "駄菓子O型",
+  "createdAt": "2026-01-11T08:48:59.481117Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あちこちデートさん",
+      "artist": "駄菓子O型",
+      "has_synced": false,
+      "path": "select/pl_01_あちこちデートさん_駄菓子O型.txt"
+    }
+  ]
+}
